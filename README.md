@@ -16,4 +16,4 @@ IN This task I have CREATED AND CONFIGURED  CLOUD STORAGE ON AWS S3,were i have 
 
 OUTPUT:
 
-[task 1 output.docx](https://github.com/user-attachments/files/19323397/task.1.output.docx)
+![Image](https://github.com/user-attachments/assets/65f29c42-8da4-4f48-beee-492bc73b0283)
